@@ -127,9 +127,9 @@
 		display: flex;
 		position: absolute;
 		right: 0;
-        z-index: 3;
+        z-index: 20;
         width: auto;
-        background-color: blue;
+        background-color: rgb(255, 0, 200);
 	}
 	.cv-phone-sp {
 		display: block;
