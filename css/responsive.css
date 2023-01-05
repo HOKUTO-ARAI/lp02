@@ -112,15 +112,24 @@
 	.logo {
 		height: 5%;
 	}
-    .fastview-right-sp {
+	.fastview-right {
+		display: none;
+	}
+	.firstview-speechbubble {
+		display: none;
+	}
+	.cv-phone-firstview {
+		display: none;
+	}
+	.fastview-right-sp {
 		display: block;
 		height: 100%;
 		display: flex;
 		position: absolute;
 		right: 0;
+        transform: translate(-0%);
         z-index: 20;
-        width: auto;
-        background-color: rgb(0, 255, 47);
+        background-color: rgb(24, 24, 195);
 	}
 	.cv-phone-sp {
 		display: block;
@@ -135,15 +144,6 @@
 	}
 	.cv-fv-sp:hover {
 		opacity: 0.7;
-	}
-	.fastview-right {
-		display: none;
-	}
-	.firstview-speechbubble {
-		display: none;
-	}
-	.cv-phone-firstview {
-		display: none;
 	}
 	.pic-cv-phone-sp {
 		height: 75%;
