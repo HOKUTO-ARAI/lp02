@@ -396,6 +396,12 @@
 	.section-title-contact {
 		font-size: 3rem;
 	}
+	.ca-select{
+		border: 1px gray solid;
+		color: gray;
+		border-radius: 5px;
+		background-color: #ffffff;
+	}
 	.ca-form-btn {
 		width: 70%;
 	}
