@@ -239,11 +239,12 @@
 		margin-bottom: 5%;
 	}
 	.select-sp {
-		appearance: none;
 		width: 80%;
 		height: 45px;
 		margin-bottom: 5%;
-		border: 1px #eee solid;
+		border: 1px gray solid;
+		border-radius: 5px;
+		background-color: #ffffff;
 	}
 	.content-sp {
 		width: 80%;
