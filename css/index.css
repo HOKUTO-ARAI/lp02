@@ -46,36 +46,28 @@ header {
 }
 .firstview-speechbubble {
 	height: 170%;
-	margin: 0;
-	width: auto;
 }
 .cv-phone-firstview {
-	margin: 0;
 	height: 110%;
-	width: auto;
 }
 .cv-phone-firstview:hover {
 	height: 113%;
 	opacity: 0.7;
+}
+.cv-phone-firstview-a{
+	display: block;
+		height: 110%;
 }
 .fastview {
 	position: relative;
 	width: 100%;
 	height: 100%;
 }
-.fastview-right {
-	position: relative;
-	float: right;
-	width: 90%;
-	height: 100%;
-}
-.fastview-right-inner {
-	height: 100%;
-	display: flex;
-	position: absolute;
-	top: 0%;
-	right: 0%;
-	transform: translate(-0%,-0%);
+.fastview-right{
+	display: block;
+		height: 100%;
+	   	float: right;
+        display: flex;
 }
 .fastview-right-sp {
 	display: none;
