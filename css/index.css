@@ -63,9 +63,9 @@ header {
 }
 .fastview-right {
 	height: 100%;
+	width: 100%;
 	display: flex;
-	float: right;
-	width: 90%;
+	justify-content: end;
 }
 .fastview-right-sp {
 	display: none;
