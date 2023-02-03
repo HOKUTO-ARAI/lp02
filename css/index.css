@@ -42,7 +42,7 @@ header {
 	transform: translate(-0%, -0%);
 	height: 10%;
 	width: auto;
-
+	
 }
 .firstview-speechbubble {
 	height: 170%;
@@ -63,12 +63,9 @@ header {
 }
 .fastview-right {
 	height: 100%;
-	width: 80%;
 	display: flex;
-	position: absolute;
-	top: 0%;
-	right: 0%;
-	transform: translate(-0%,-0%);
+	float: right;
+	width: 90%;
 }
 .fastview-right-sp {
 	display: none;
