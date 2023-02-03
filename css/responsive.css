@@ -121,6 +121,9 @@
 	.cv-phone-firstview {
 		display: none;
 	}
+	.cv-phone-firstview-a{
+		display: none;
+	}
 	.fastview-right-sp {
 		display: block;
 		height: 100%;
