@@ -63,6 +63,7 @@ header {
 }
 .fastview-right {
 	height: 100%;
+	width: 80%;
 	display: flex;
 	position: absolute;
 	top: 0%;
