@@ -56,12 +56,6 @@ header {
 	height: 113%;
 	opacity: 0.7;
 }
-.cv-phone-sp {
-	display: none;
-}
-.cv-fv-sp {
-	display: none;
-}
 .fastview {
 	position: relative;
 	width: 100%;
@@ -71,9 +65,17 @@ header {
 	height: 100%;
 	display: flex;
 	position: absolute;
-	right: 0;
+	top: 0%;
+	right: 0%;
+	transform: translate(-0%,-0%);
 }
 .fastview-right-sp {
+	display: none;
+}
+.cv-phone-sp {
+	display: none;
+}
+.cv-fv-sp {
 	display: none;
 }
 .pic-fastview {
