@@ -47,10 +47,12 @@ header {
 .firstview-speechbubble {
 	height: 170%;
 	margin: 0;
+	width: auto;
 }
 .cv-phone-firstview {
 	margin: 0;
 	height: 110%;
+	width: auto;
 }
 .cv-phone-firstview:hover {
 	height: 113%;
