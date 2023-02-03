@@ -65,7 +65,10 @@ header {
 	height: 100%;
 	width: 90%;
 	display: flex;
-	justify-content: end;
+	position: absolute;
+	top: 0%;
+	right: 0%;
+	transform: translate(-0%,-0%);
 }
 .fastview-right-sp {
 	display: none;
